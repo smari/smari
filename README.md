@@ -11,7 +11,7 @@ A lot of my recent open source work has been in the form of developing various l
  * [GraphBLAS bindings](https://github.com/smari/jai-graphblas)
  * [INI library](https://github.com/smari/jai-ini)
  * [libMagic bindings](https://github.com/smari/jai-magic)
- * [NanoID](https://github.com/cguess/nanoid-jai) implemntation (with [Chris Guess](https://github.com/cguess))
+ * [NanoID](https://github.com/cguess/nanoid-jai) implementation (with [Chris Guess](https://github.com/cguess))
  * [Redis bindings](https://github.com/smari/jai-redis)
  * [S3 bindings](https://github.com/smari/jai-s3)
  * [SimpleHTTP](https://github.com/smari/jai-simplehttp) - a simple HTTP server.
