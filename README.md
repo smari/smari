@@ -13,3 +13,4 @@ A lot of my recent open source work has been in the form of developing various l
  * [Redis bindings](https://github.com/smari/jai-redis)
  * [S3 bindings](https://github.com/smari/jai-s3)
  * [SimpleHTTP](https://github.com/smari/jai-simplehttp) - a simple HTTP server.
+ * [Jai-XML](https://github.com/smari/jai-xml)
