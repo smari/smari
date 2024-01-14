@@ -1,6 +1,4 @@
-Hi! I'm Smári. I'm a human from Earth. I write code, and sometimes other types of text. I work at [Ecosophy](https://ecosophy.is) doing climate stuff. I rant [here](https://smarimccarthy.is).
-
-I work mostly in Jai, Python, and C. Reluctantly also Typescript, Fortran and some others.
+Hi! I'm Smári. I'm a human from Earth. I write code, and sometimes other types of text. I work at [Ecosophy](https://ecosophy.is) doing climate stuff. I rant [here](https://smarimccarthy.is) and [here in video format](https://youtube.com/smarimc). I work mostly in Jai, Python, and C. Reluctantly also Typescript, Fortran and some others.
 
 ## Jai libraries
 
